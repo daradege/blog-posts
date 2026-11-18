@@ -1,54 +1,36 @@
 [[project]]
-name = "lorem"
-desc = "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
-tags = ["nisi", "saepe"]
+name = "پایروبله"
+desc = "پایروبله یک کتابخانهٔ پایتون برای ساخت و مدیریت ربات در پیامرسان بله‌است."
+tags = ["پیامرسان", "ربات"]
 links = [
-  { name = "github", url = "https://example.com" },
-  { name = "docs", url = "https://example.com" },
+  { name = "گیت‌هاب", url = "https://github.com/pyrobale/pyrobale" },
+  { name = "وب‌سایت", url = "https://pyrobale.ir" },
 ]
 
 [[project]]
-name = "ipsum"
-desc = "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
-tags = ["lorem", "ipsum"]
+name = "پارچ لینوکس - نسخهٔ XFCE"
+desc = "پارچ لینوکس، فعال‌ترین توزیع ایرانی در Distrowatch است. نسخهٔ XFCE این سیستم‌عامل یک نسخهٔ سبک و زیبا مخصوص سیستم‌های قدیمی یا کاربران قدیمی‌پسند است."
+tags = ["پارچ", "لینوکس", "گنو"]
 links = [
-  { name = "homepage", url = "https://example.com" },
-  { name = "source", url = "https://example.com" },
-  { name = "docs", url = "https://example.com" },
+  { name = "گیت‌هاب", url = "https://github.com/parchlinux/parch-iso-xfce" },
+  { name = "دانلود", url = "https://mirror.parchlinux.ir/XFCE/Parchlinux-XFCE-latest.iso" },
+  { name = "وب‌سایت پارچ", url = "https://parchlinux.com" },
 ]
 
 [[project]]
-name = "dolor sit"
-desc = "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
-tags = ["amet", "ipsum", "vero", "optio"]
-links = [{ name = "github", url = "https://example.com" }]
-
-[[project]]
-name = "amet"
-desc = "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
-tags = ["lorem", "ipsum"]
+name = "aqipy"
+desc = "کتابخانهٔ پایتون برای دریافت داده‌های سامانهٔ سنجش آلودگی هوای کشور"
+tags = ["اسکرپ", "کتابخانه", "پایتون"]
 links = [
-  { name = "website", url = "https://example.com" },
-  { name = "github", url = "https://example.com" },
-  { name = "docs", url = "https://example.com" },
-  { name = "wiki", url = "https://example.com" },
+  { name = "گیت‌هاب", url = "https://github.com/daradege/aqipy" },
+  { name = "پای‌پی", url = "https://pypi.org/project/aqms-iran" }
 ]
 
 [[project]]
-name = "lorem-ipsum"
-desc = "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
-tags = ["dolor", "lorem", "ipsum", "amet"]
+name = "کیتا فارسی"
+desc = "کیتا فارسی یک قالب تمیز و زیبا برای بلاگ ساز زولا است."
+tags = ["بلاگ‌ساز", "زولا"]
 links = [
-  { name = "github", url = "https://example.com" },
-  { name = "docs", url = "https://example.com" },
-]
-
-[[project]]
-name = "praesentium"
-desc = "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است."
-tags = ["lorem", "ipsum"]
-links = [
-  { name = "homepage", url = "https://example.com" },
-  { name = "github", url = "https://example.com" },
-  { name = "docs", url = "https://example.com" },
+  { name = "پیش‌نمایش", url = "https://kita-farsi.vercel.app" },
+  { name = "گیت‌هاب", url = "https://github.com/daradege/kita-farsi" },
 ]

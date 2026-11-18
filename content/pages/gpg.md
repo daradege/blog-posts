@@ -1,0 +1,22 @@
++++
+title = "کلید عمومی GPG من"
+path = "gpg"
++++
+
+برای ارسال ایمیل محرمانه به من از این کلید استفاده کنید.
+
+```asc
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaluKThYJKwYBBAHaRw8BAQdATngdnwGu1mQonOC3iW8exo12Flm8S/bdwpjO
+Dbvskkq0I0FsaSBTYWZhbWFuZXNoIDxzYWZhbWFuZXNoQHR1dGEuaW8+iJAEExYK
+ADgWIQQioghLpP62QaDcIK/Lb3s9qJLynQUCaluKTgIbAwULCQgHAgYVCgkICwIE
+FgIDAQIeAQIXgAAKCRDLb3s9qJLynWtdAP4t8gPr0TSU3nGc19ryzY0iu5gOF9KD
+G1TuhVtJWoMgwwEA0cV/Y10TFZsHypBoZRdAtZpy7Teh7PsyKi2Rv0Wg9wa4OARq
+W4pOEgorBgEEAZdVAQUBAQdAe+OSf4tiHLaehZ/+RcTyoaQSp5em/C1WRir8RKyy
+wgUDAQgHiHgEGBYKACAWIQQioghLpP62QaDcIK/Lb3s9qJLynQUCaluKTgIbDAAK
+CRDLb3s9qJLynVb7APsEAKJ8CZn6MqDkgMLWutakxPbGdVO5KpUUYHFf1L3SrwEA
+zEMTzIpTMBtWbseHHYISNuFHLvIfxAfEiCRyy9bFDQg=
+=XXuo
+-----END PGP PUBLIC KEY BLOCK-----
+```
