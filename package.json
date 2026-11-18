@@ -1,0 +1,24 @@
+{
+  "name": "kita",
+  "version": "0.1.0",
+  "description": "Kita is a clean, elegant and simple blog theme for Zola.",
+  "homepage": "https://github.com/st1020/kita",
+  "license": "MIT",
+  "author": {
+    "name": "st1020",
+    "email": "me@st1020.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/st1020/kita.git"
+  },
+  "scripts": {
+    "dev": "bun tailwindcss -i ./static/app.css -o ./static/main.css --watch",
+    "build": "bun tailwindcss -i ./static/app.css -o ./static/main.css"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.4",
+    "@tailwindcss/typography": "^0.5.19",
+    "tailwindcss": "^4.2.4"
+  }
+}
