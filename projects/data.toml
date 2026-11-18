@@ -1,0 +1,36 @@
+[[project]]
+name = "پایروبله"
+desc = "پایروبله یک کتابخانهٔ پایتون برای ساخت و مدیریت ربات در پیامرسان بله‌است."
+tags = ["پیامرسان", "ربات"]
+links = [
+  { name = "گیت‌هاب", url = "https://github.com/pyrobale/pyrobale" },
+  { name = "وب‌سایت", url = "https://pyrobale.ir" },
+]
+
+[[project]]
+name = "پارچ لینوکس - نسخهٔ XFCE"
+desc = "پارچ لینوکس، فعال‌ترین توزیع ایرانی در Distrowatch است. نسخهٔ XFCE این سیستم‌عامل یک نسخهٔ سبک و زیبا مخصوص سیستم‌های قدیمی یا کاربران قدیمی‌پسند است."
+tags = ["پارچ", "لینوکس", "گنو"]
+links = [
+  { name = "گیت‌هاب", url = "https://github.com/parchlinux/parch-iso-xfce" },
+  { name = "دانلود", url = "https://mirror.parchlinux.ir/XFCE/Parchlinux-XFCE-latest.iso" },
+  { name = "وب‌سایت پارچ", url = "https://parchlinux.com" },
+]
+
+[[project]]
+name = "aqipy"
+desc = "کتابخانهٔ پایتون برای دریافت داده‌های سامانهٔ سنجش آلودگی هوای کشور"
+tags = ["اسکرپ", "کتابخانه", "پایتون"]
+links = [
+  { name = "گیت‌هاب", url = "https://github.com/daradege/aqipy" },
+  { name = "پای‌پی", url = "https://pypi.org/project/aqms-iran" }
+]
+
+[[project]]
+name = "کیتا فارسی"
+desc = "کیتا فارسی یک قالب تمیز و زیبا برای بلاگ ساز زولا است."
+tags = ["بلاگ‌ساز", "زولا"]
+links = [
+  { name = "پیش‌نمایش", url = "https://kita-farsi.vercel.app" },
+  { name = "گیت‌هاب", url = "https://github.com/daradege/kita-farsi" },
+]
